@@ -51,7 +51,7 @@ This part of the project demonstrates unsupervised learning by training a CAE to
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/ahmedimaddd/your-repo-name.git](https://github.com/ahmedimaddd/your-repo-name.git)
+    git clone [https://github.com/ahmedimaddd/Image-Classification-and-Reconstruction-On-CIFAR-10-Using-Transfer-Learning.git](https://github.com/ahmedimaddd/Image-Classification-and-Reconstruction-On-CIFAR-10-Using-Transfer-Learning.git)
     ```
 2.  **Install dependencies:**
     ```bash
